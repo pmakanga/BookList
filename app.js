@@ -88,7 +88,6 @@ document.getElementById('book-form').addEventListener('submit', function(e){
 });
 
 // Event Listener for delete
-
 document.getElementById('book-list').addEventListener('click', function(e){
     e.preventDefault();
 
